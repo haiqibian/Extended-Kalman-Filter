@@ -1,4 +1,4 @@
-# Install script for directory: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter
+# Install script for directory: /Users/Haiqi/Git/Extended-Kalman-Filter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/Haiqi/Git/Extended-Kalman-Filter/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

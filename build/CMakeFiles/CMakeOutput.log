@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is AppleClang, found in "/Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/3.12.1/CompilerIdC/a.out"
+The C compiler identification is AppleClang, found in "/Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/3.12.1/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /Library/Developer/CommandLineTools/usr/bin/c++ 
@@ -23,22 +23,22 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is AppleClang, found in "/Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/3.12.1/CompilerIdCXX/a.out"
+The CXX compiler identification is AppleClang, found in "/Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/3.12.1/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_e5a93/fast"
 /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_e5a93.dir/build.make CMakeFiles/cmTC_e5a93.dir/build
 Building C object CMakeFiles/cmTC_e5a93.dir/testCCompiler.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc    -o CMakeFiles/cmTC_e5a93.dir/testCCompiler.c.o   -c /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp/testCCompiler.c
+/Library/Developer/CommandLineTools/usr/bin/cc    -o CMakeFiles/cmTC_e5a93.dir/testCCompiler.c.o   -c /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp/testCCompiler.c
 Linking C executable cmTC_e5a93
 /usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e5a93.dir/link.txt --verbose=1
 /Library/Developer/CommandLineTools/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_e5a93.dir/testCCompiler.c.o  -o cmTC_e5a93 
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_aa11b/fast"
 /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_aa11b.dir/build.make CMakeFiles/cmTC_aa11b.dir/build
@@ -64,7 +64,7 @@ Framework search paths:
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp]
   ignore line: []
   ignore line: [Run Build Command:"/usr/bin/make" "cmTC_aa11b/fast"]
   ignore line: [/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_aa11b.dir/build.make CMakeFiles/cmTC_aa11b.dir/build]
@@ -111,12 +111,12 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_d4e3d/fast"
 /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_d4e3d.dir/build.make CMakeFiles/cmTC_d4e3d.dir/build
 Building C object CMakeFiles/cmTC_d4e3d.dir/feature_tests.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_d4e3d.dir/feature_tests.c.o   -c /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.c
+/Library/Developer/CommandLineTools/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_d4e3d.dir/feature_tests.c.o   -c /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.c
 Linking C executable cmTC_d4e3d
 /usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d4e3d.dir/link.txt --verbose=1
 /Library/Developer/CommandLineTools/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_d4e3d.dir/feature_tests.c.o  -o cmTC_d4e3d 
@@ -129,12 +129,12 @@ Linking C executable cmTC_d4e3d
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_bcd4d/fast"
 /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_bcd4d.dir/build.make CMakeFiles/cmTC_bcd4d.dir/build
 Building C object CMakeFiles/cmTC_bcd4d.dir/feature_tests.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_bcd4d.dir/feature_tests.c.o   -c /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.c
+/Library/Developer/CommandLineTools/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_bcd4d.dir/feature_tests.c.o   -c /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.c
 Linking C executable cmTC_bcd4d
 /usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bcd4d.dir/link.txt --verbose=1
 /Library/Developer/CommandLineTools/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_bcd4d.dir/feature_tests.c.o  -o cmTC_bcd4d 
@@ -147,12 +147,12 @@ Linking C executable cmTC_bcd4d
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_92ff2/fast"
 /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_92ff2.dir/build.make CMakeFiles/cmTC_92ff2.dir/build
 Building C object CMakeFiles/cmTC_92ff2.dir/feature_tests.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_92ff2.dir/feature_tests.c.o   -c /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.c
+/Library/Developer/CommandLineTools/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_92ff2.dir/feature_tests.c.o   -c /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.c
 Linking C executable cmTC_92ff2
 /usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_92ff2.dir/link.txt --verbose=1
 /Library/Developer/CommandLineTools/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_92ff2.dir/feature_tests.c.o  -o cmTC_92ff2 
@@ -163,19 +163,19 @@ Linking C executable cmTC_92ff2
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_4957b/fast"
 /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_4957b.dir/build.make CMakeFiles/cmTC_4957b.dir/build
 Building CXX object CMakeFiles/cmTC_4957b.dir/testCXXCompiler.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++     -o CMakeFiles/cmTC_4957b.dir/testCXXCompiler.cxx.o -c /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+/Library/Developer/CommandLineTools/usr/bin/c++     -o CMakeFiles/cmTC_4957b.dir/testCXXCompiler.cxx.o -c /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
 Linking CXX executable cmTC_4957b
 /usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4957b.dir/link.txt --verbose=1
 /Library/Developer/CommandLineTools/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_4957b.dir/testCXXCompiler.cxx.o  -o cmTC_4957b 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_17abf/fast"
 /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_17abf.dir/build.make CMakeFiles/cmTC_17abf.dir/build
@@ -201,7 +201,7 @@ Framework search paths:
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp]
   ignore line: []
   ignore line: [Run Build Command:"/usr/bin/make" "cmTC_17abf/fast"]
   ignore line: [/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_17abf.dir/build.make CMakeFiles/cmTC_17abf.dir/build]
@@ -249,12 +249,12 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
-Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_84070/fast"
 /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_84070.dir/build.make CMakeFiles/cmTC_84070.dir/build
 Building CXX object CMakeFiles/cmTC_84070.dir/feature_tests.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_84070.dir/feature_tests.cxx.o -c /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.cxx
+/Library/Developer/CommandLineTools/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_84070.dir/feature_tests.cxx.o -c /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.cxx
 Linking CXX executable cmTC_84070
 /usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_84070.dir/link.txt --verbose=1
 /Library/Developer/CommandLineTools/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_84070.dir/feature_tests.cxx.o  -o cmTC_84070 
@@ -320,12 +320,12 @@ Linking CXX executable cmTC_84070
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_3091a/fast"
 /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_3091a.dir/build.make CMakeFiles/cmTC_3091a.dir/build
 Building CXX object CMakeFiles/cmTC_3091a.dir/feature_tests.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_3091a.dir/feature_tests.cxx.o -c /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.cxx
+/Library/Developer/CommandLineTools/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_3091a.dir/feature_tests.cxx.o -c /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.cxx
 Linking CXX executable cmTC_3091a
 /usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3091a.dir/link.txt --verbose=1
 /Library/Developer/CommandLineTools/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_3091a.dir/feature_tests.cxx.o  -o cmTC_3091a 
@@ -391,12 +391,12 @@ Linking CXX executable cmTC_3091a
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_27bb5/fast"
 /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_27bb5.dir/build.make CMakeFiles/cmTC_27bb5.dir/build
 Building CXX object CMakeFiles/cmTC_27bb5.dir/feature_tests.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_27bb5.dir/feature_tests.cxx.o -c /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.cxx
+/Library/Developer/CommandLineTools/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_27bb5.dir/feature_tests.cxx.o -c /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.cxx
 Linking CXX executable cmTC_27bb5
 /usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_27bb5.dir/link.txt --verbose=1
 /Library/Developer/CommandLineTools/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_27bb5.dir/feature_tests.cxx.o  -o cmTC_27bb5 
@@ -462,12 +462,12 @@ Linking CXX executable cmTC_27bb5
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
+Change Dir: /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_63361/fast"
 /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_63361.dir/build.make CMakeFiles/cmTC_63361.dir/build
 Building CXX object CMakeFiles/cmTC_63361.dir/feature_tests.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_63361.dir/feature_tests.cxx.o -c /Users/Haiqi/Documents/GitHub/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.cxx
+/Library/Developer/CommandLineTools/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_63361.dir/feature_tests.cxx.o -c /Users/Haiqi/Git/Extended-Kalman-Filter/build/CMakeFiles/feature_tests.cxx
 Linking CXX executable cmTC_63361
 /usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_63361.dir/link.txt --verbose=1
 /Library/Developer/CommandLineTools/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_63361.dir/feature_tests.cxx.o  -o cmTC_63361 
