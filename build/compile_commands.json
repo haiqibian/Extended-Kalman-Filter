@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/Haiqi/Git/Extended-Kalman-Filter/build",
+  "command": "/usr/bin/clang++   -I/usr/local/include -I/usr/local/opt/openssl/include  -Wall -g   -std=c++11 -o CMakeFiles/ExtendedKF.dir/src/main.cpp.o -c /Users/Haiqi/Git/Extended-Kalman-Filter/src/main.cpp",
+  "file": "/Users/Haiqi/Git/Extended-Kalman-Filter/src/main.cpp"
+},
+{
+  "directory": "/Users/Haiqi/Git/Extended-Kalman-Filter/build",
+  "command": "/usr/bin/clang++   -I/usr/local/include -I/usr/local/opt/openssl/include  -Wall -g   -std=c++11 -o CMakeFiles/ExtendedKF.dir/src/tools.cpp.o -c /Users/Haiqi/Git/Extended-Kalman-Filter/src/tools.cpp",
+  "file": "/Users/Haiqi/Git/Extended-Kalman-Filter/src/tools.cpp"
+},
+{
+  "directory": "/Users/Haiqi/Git/Extended-Kalman-Filter/build",
+  "command": "/usr/bin/clang++   -I/usr/local/include -I/usr/local/opt/openssl/include  -Wall -g   -std=c++11 -o CMakeFiles/ExtendedKF.dir/src/FusionEKF.cpp.o -c /Users/Haiqi/Git/Extended-Kalman-Filter/src/FusionEKF.cpp",
+  "file": "/Users/Haiqi/Git/Extended-Kalman-Filter/src/FusionEKF.cpp"
+},
+{
+  "directory": "/Users/Haiqi/Git/Extended-Kalman-Filter/build",
+  "command": "/usr/bin/clang++   -I/usr/local/include -I/usr/local/opt/openssl/include  -Wall -g   -std=c++11 -o CMakeFiles/ExtendedKF.dir/src/kalman_filter.cpp.o -c /Users/Haiqi/Git/Extended-Kalman-Filter/src/kalman_filter.cpp",
+  "file": "/Users/Haiqi/Git/Extended-Kalman-Filter/src/kalman_filter.cpp"
+}
+]

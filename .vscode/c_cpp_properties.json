@@ -7,7 +7,9 @@
                 "/usr/local/include",
                 "/usr/local/Cellar/openssl/1.0.2p/include"
             ],
-            "defines": ["_DEBUG"],
+            "defines": [
+                "_DEBUG"
+            ],
             "macFrameworkPath": [
                 "/System/Library/Frameworks",
                 "/Library/Frameworks"
@@ -15,7 +17,8 @@
             "compilerPath": "/usr/bin/clang",
             "cStandard": "c11",
             "cppStandard": "c++17",
-            "intelliSenseMode": "clang-x64"
+            "intelliSenseMode": "clang-x64",
+            "configurationProvider": "vector-of-bool.cmake-tools"
         }
     ],
     "version": 4
