@@ -4,6 +4,7 @@
 using Eigen::VectorXd;
 using Eigen::MatrixXd;
 using std::vector;
+using namespace std;
 
 Tools::Tools() {}
 
@@ -52,13 +53,15 @@ MatrixXd Tools::CalculateJacobian(const VectorXd& x_state) {
   TODO:
     * Calculate a Jacobian here.
   */
+    cout<<"Jac 1"<<endl;
  	MatrixXd Hj(3,4);
+    cout<<"Jac 2"<<endl;
 	//recover state parameters
 	float px = x_state(0);
 	float py = x_state(1);
 	float vx = x_state(2);
 	float vy = x_state(3);
-
+    cout<<"Jac 3"<<endl;
 	//pre-compute a set of terms to avoid repeated calculation
 	float c1 = px*px+py*py;
 	float c2 = sqrt(c1);

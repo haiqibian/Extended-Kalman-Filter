@@ -1098,13 +1098,13 @@ utility
 vector
 -
 
-/Users/Haiqi/Git/Extended-Kalman-Filter/src/kalman_filter.cpp
-kalman_filter.h
-/Users/Haiqi/Git/Extended-Kalman-Filter/src/kalman_filter.h
-
 /Users/Haiqi/Git/Extended-Kalman-Filter/src/kalman_filter.h
 Eigen/Dense
 /Users/Haiqi/Git/Extended-Kalman-Filter/src/Eigen/Dense
+iostream
+-
+math.h
+-
 
 /Users/Haiqi/Git/Extended-Kalman-Filter/src/main.cpp
 uWS/uWS.h
@@ -1123,12 +1123,6 @@ tools.h
 /Users/Haiqi/Git/Extended-Kalman-Filter/src/measurement_package.h
 Eigen/Dense
 /Users/Haiqi/Git/Extended-Kalman-Filter/src/Eigen/Dense
-
-/Users/Haiqi/Git/Extended-Kalman-Filter/src/tools.cpp
-iostream
--
-tools.h
-/Users/Haiqi/Git/Extended-Kalman-Filter/src/tools.h
 
 /Users/Haiqi/Git/Extended-Kalman-Filter/src/tools.h
 vector
